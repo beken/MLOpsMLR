@@ -1,1 +1,1 @@
-This repository includes appendix for the paper titled "A Multivocal Literature Review on MLOps: Overview, Solutions and Challenges". 
+This repository includes an appendix for the paper titled "A Multivocal Review of MLOps Practices, Challenges and Open Issues". 
